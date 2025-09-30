@@ -1,6 +1,6 @@
  [Login-Screen]
 
-![Badge em Desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-brightgreen)
+![Badge de Status](https://img.shields.io/badge/status-conclu%C3%ADdo-green)
 
 <p align="center">
   <img alt="Layout do Projeto" src="img/login.png" width="100%">
